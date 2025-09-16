@@ -12,7 +12,7 @@ After the paper is accepted, the data acquisition link, environment configuratio
 
 
 #Code Cite
-‘’‘
+```bibtex
 @article{zhang2023semantic,
   title={Semantic consistent embedding for domain adaptive zero-shot learning},
   author={Zhang, Jianyang and Yang, Guowu and Hu, Ping and Lin, Guosheng and Lv, Fengmao},
@@ -20,7 +20,8 @@ After the paper is accepted, the data acquisition link, environment configuratio
   year={2023},
   publisher={IEEE}
 }
-’‘’
+```
+```bibtex
 @inproceedings{zhuo2019unsupervised,
   title={Unsupervised open domain recognition by semantic discrepancy minimization},
   author={Zhuo, Junbao and Wang, Shuhui and Cui, Shuhao and Huang, Qingming},
@@ -28,3 +29,4 @@ After the paper is accepted, the data acquisition link, environment configuratio
   pages={750--759},
   year={2019}
 }
+```
